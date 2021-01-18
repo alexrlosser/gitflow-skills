@@ -1,3 +1,4 @@
 Here is some text. 
 This file is file01.txt
 Here is some text added in feature/second-file
+Text appended for hotfix v1.0.1. If you happen to read this it was mistakenly named v0.1.1 over 1.0.1
