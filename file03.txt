@@ -1,2 +1,2 @@
-Here is some text in the third file.
+File03.txt's content has been modified here.
 This file is file03.txt
